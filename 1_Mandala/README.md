@@ -8,6 +8,10 @@ It sends user queries to a GPT-3.5 API, has the API identify categories of inqui
 and then responds with something simulating therapy or, in some cases, educational information.
 
 ![GUI when user opens a new chat](2_demo2.png)
+GUI when user opens a new chat
+
+
 
 ![Intermediary layer modifying LLM output](1_demo1.png)
+Intermediary layer modifying LLM output
 
