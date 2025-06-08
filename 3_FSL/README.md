@@ -1,13 +1,12 @@
-# Mandala Overview
+# FSL Use Overview
 
-This application was developed purely for self-education and signalling to research labs.  
-(It was built in the weeks leading up to September 2023.)
+This folder contains one example of my use of **python** scripts, **unix terminal**, and an established brain data processing toolbox, **FSL** to take brain data which varied substantially between tens of patients, standardize it, extract mathematical parameters from each voxel, and conduct group tests between clinical groups. 
 
-The app creates a user interface in Swift, with functioning buttons, a sidebar, and a text interface.  
-It sends user queries to a GPT-3.5 API, has the API identify categories of inquiries related to psychiatry information,  
-and then responds with something simulating therapy or, in some cases, educational information.
+Multiple python scripts are represented, with function described in jupyter file `1_FSLpipeline.ipynb`
+Actual scripts were run on university computers with confidential patient files.
+However, a walkthrough of use of the project with images to demonstrate can be found in file `2_FSLpresentation`
 
-![GUI when user opens a new chat](2_demo2.png)
-
-![Intermediary layer modifying LLM output](1_demo1.png)
-
+**Images showing the nature of the transformations of data**
+![Initial input example of raw diffusion weighted MRI scan](1_demo1.png)
+![Extracted mean skeleton between multiple MRIs to compare group white matter tracts](2_demo2.png)
+![Visualization of test results where green indicates standardized white matter tract skeleton, but yellow and blue indicate areas of significant differences between groups.](3_demo3.png)
