@@ -26,6 +26,6 @@ demonstrations of inputs and outputs.
 ### Project 4: Natural Language Processing in Otolaryngology
 - **Description:** Series of scripts utilizing Claude and OpenAI APIs to help automate study selection and analysis for thousands of papers.
 - **Status:** Complete, truncated form of final script included.
-- **Files:** `ENTNLP.ipynb` in folder `4_ENTNLP`
+- **Folder:** `4_ENTNLP` contains scripts.
 
 **Ending Note:** All the works included were almost entirely built by myself using online resources like AI. Project 2, FID, involved some advising and contributions from a mentor. 
