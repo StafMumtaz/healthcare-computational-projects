@@ -6,7 +6,7 @@ This project shows gathering and analyzing data for a meta analysis on attemps t
 `1_Initial Selection` contains the first set of **python** scripts and **Claude** API calling to automate the process of filtering out 100 papers from a ~180 paper sample. 
 `2_Scaled Analysis` contains a more ambitious use of **GPT4.1** API, showing how it will scan ~3000 papers in the field, generating numerical insights.
 
-##More on Associated Paper
+### More on Associated Paper
 
 I want to characterize where natural langauge processing is being used in actual clinical practice. 
 A large chunk of academic research in the field of this research question are forms of testing LLM knowledge and output quality. 
