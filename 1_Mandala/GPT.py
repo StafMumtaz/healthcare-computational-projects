@@ -39,8 +39,8 @@ def ask_gpt3_for_title():
     text2 = request.get_json().get('text2')
 
     # Set your API Key and Organization ID
-    openai.api_key = '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'
-    openai.organization = 'org-GyQAu0ftJAqvA0KNfkVIGlWb'
+    openai.api_key = 'example1'
+    openai.organization = 'example2'
 
     # Create a series of messages
     messages = [
