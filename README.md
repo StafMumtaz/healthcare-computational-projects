@@ -1,10 +1,9 @@
 # Healthcare Computational Projects
 
 ## Overview
-This is a repository made soley for my Palantir application to demonstrate 
-some code in previous healthcare and neuroscience related computational
-projects. Code will not function directly from repository but will contain 
-demonstrations of inputs and outputs.
+This is a repository to demonstrate some code in previous healthcare and 
+neuroscience related computational projects. Code will not function directly 
+from repository but will contain demonstrations of inputs and outputs.
 
 ## Projects Included
 
